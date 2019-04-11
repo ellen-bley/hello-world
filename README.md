@@ -1,2 +1,4 @@
 # hello-world
-this is a test repository. tutorials are so fun. 
+
+I'm Ellen and I am very thrilled about learning to use Git. 
+This is a test. 
